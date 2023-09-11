@@ -15,5 +15,5 @@ mysqlConect.connect(function(error){
         console.log('Se conecto a la base de datos')
     }
 })
-
+// A ver si anda 
 module.exports= mysqlConect;
